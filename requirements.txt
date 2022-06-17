@@ -1,0 +1,4 @@
+torch==1.6.0
+torchvision==0.7.0
+geomloss==0.2.3
+pytorch-fid==0.1.1
